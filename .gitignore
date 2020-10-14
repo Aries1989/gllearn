@@ -1,0 +1,11 @@
+*.tlog
+*.pdb
+*.suo
+*.db
+*.idb
+*.log
+*.ilk
+*.obj
+*.opendb
+*.user
+*.filters
